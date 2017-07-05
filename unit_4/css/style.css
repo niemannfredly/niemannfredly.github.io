@@ -1,11 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Bellefair');
 body {
-
+font-family: helvetica;
 }
 h1 {
+	font-family: Bellefair;
 font-weight: bold;
 }
 p{
-font-family: helvetica;
 font-size: 14px;
 }
 ul {
