@@ -19,6 +19,7 @@ nav {
 }
 aside {
 	background-color: #FFC675;
+	max-width: 250px;
 }
 article {
 	background-color: #E89C6C;
