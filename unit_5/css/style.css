@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Bellefair');
+body {
+font-family: helvetica;
+}
+h1 {
+
+font-family: 'Bellefair', Arial;
+font-weight: bold;
+}
+p{
+font-size: 14px;
+}
+ul {
+font-size: 12px;
+}
+img {
+
+}
+#slogan {
+	color: a8a8a8;
+}
