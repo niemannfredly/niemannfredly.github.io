@@ -16,19 +16,24 @@ font-weight: bold;
 }
 nav {
 	background-color: #E8C66A;
+	padding: 20px;
 }
 aside {
 	background-color: #FFC675;
 	min-width: 250px;
+	padding: 20px;
 }
 article {
 	background-color: #E89C6C;
+	padding: 20px;
 }
 footer {
 	background-color: #FF957E;
+	padding: 20px;
 }
 #section {
 	background-color: #FFE2B8;
+	padding: 10px;
 }
 p{
 font-size: 14px;
