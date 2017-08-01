@@ -17,6 +17,7 @@ font-weight: bold;
 nav {
 	background-color: #E8C66A;
 	padding: 20px;
+	border: 1px black solid;
 }
 aside {
 	background-color: #FFC675;
@@ -30,10 +31,12 @@ article {
 footer {
 	background-color: #FF957E;
 	padding: 20px;
+	border: 1px black solid;
 }
 #section {
 	background-color: #FFE2B8;
 	padding: 10px;
+	border: 1px black solid;
 }
 p{
 font-size: 14px;
