@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Bellefair');
 body {
 font-family: helvetica;
+width: auto;
 }
 header {
 	background-color: #FFED74;
